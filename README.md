@@ -1,3 +1,8 @@
+## My Calculator
+
+This is a small project creating a web based calculator to teach myself reactjs.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
